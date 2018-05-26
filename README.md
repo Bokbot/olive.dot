@@ -4,7 +4,7 @@
 
 ### Screenshot
 
-![Sufee admin dashboard template preview](https://colorlib.com/wp/wp-content/uploads/sites/2/sufee-free-modern-admin-dashboard-template.jpg)
+![Sufee admin dashboard template preview](https://)
 
 
 ### Authors
